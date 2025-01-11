@@ -1,6 +1,4 @@
-Here is the updated **README** file with the requested changes:
 
----
 
 # Rock, Paper, Scissors Game in Python
 
@@ -82,6 +80,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 RohithDS
 
----
 
-This version includes your GitHub username `rohithds` and sets "RohithDS" as the author name.
